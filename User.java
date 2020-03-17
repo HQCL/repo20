@@ -4,4 +4,5 @@ public class User{
 	private  int brithday; 
 	private int name; 
 	private int age; 
+	private Person person;
 }
